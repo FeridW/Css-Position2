@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.box{
+    position: absolute;
+    width: 349px;
+    height: 350px;
+    background-color: rgb(245, 245, 235);
+    border: 3px solid rgba(128, 128, 128, 0.189);
+    top: 200px;
+    right: 601px;
+    border-radius: 20px;
+}
+
+.box2{
+    position: absolute;
+    width: 350px;
+    height: 140px;
+    background-color: rgb(29, 8, 123);
+    top: 200px;
+    right: 602px;
+    border-radius: 20px;
+}
+
+.p1{
+    position: absolute;
+    font-size: large;
+    top: 220px;
+    left: 600px;
+    color: white;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p2{
+    position: absolute;
+    font-size: x-large;
+    top: 360px;
+    left: 635px;
+    color: rgb(29, 8, 123);;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p3{
+    position: absolute;
+    font-size: medium;
+    top: 420px;
+    left: 650px;
+    color: rgb(0, 0, 0);
+
+}
+
+.p4{
+    position: absolute;
+    font-size: medium;
+    top: 435px;
+    left: 700px;
+    color: rgb(0, 0, 0);
+
+}
+
+#item{
+    position: absolute;
+    top: 225px;
+    right: 620px;
+    font-weight: 600;
+}
+
+#item2{
+    position: absolute;
+    font-size: 70px;
+    top: 280px;
+    right: 740px;
+    font-weight: 600;
+}
+
+.btn{
+    position: absolute;
+    padding: 8px 10px;
+    border-radius: 5px;
+    border: 0px solid;
+    background-color: rgb(27, 186, 27);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 480px;
+    right: 720px;
+}
+
